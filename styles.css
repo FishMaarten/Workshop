@@ -1,4 +1,25 @@
 #container { }
-#header { }
-#links { }
-#main { }
+#header {
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	right: 8px;
+	height: 16%;
+	outline: 3px solid black;
+}
+#links {
+	position: absolute;
+	bottom: 8px;
+	left: 8px;
+	height: 80%;
+	width: 19%;
+	outline: 3px solid black;
+}
+#main { 
+	position: absolute;
+	bottom: 8px;
+	right: 8px;
+	height: 80%;
+	width: 79%;
+	outline: 3px solid black;
+}
