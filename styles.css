@@ -7,6 +7,7 @@
 	height: 20%;
 	outline: 3px solid black;
 	text-align: center;
+	background-color: #669900;
 }
 #links {
 	font-size: 200%;
@@ -16,6 +17,7 @@
 	height: 75%; 
 	width: 19%;
 	outline: 3px solid black;
+	background-color: #669900;
 }
 #main { 
 	position: absolute;
@@ -24,6 +26,7 @@
 	height: 75%;
 	width: 79%;
 	outline: 3px solid black;
+	background-color: #99cc00;
 }
 table {
 	width: 100%;
@@ -34,6 +37,5 @@ th, td {
 	border: 1px solid black;
 	padding: 3px;
 }
-a {
-	line-height: 200%;
-}
+a {	line-height: 200%; }
+body {	background-color: #333300; }
